@@ -1,6 +1,6 @@
 # Challenge #1 - Keyboard
 ## Description
-For this challenge I was tasked to try and duplicate the following image using HTML and CSS.
+For this challenge, I was tasked to try and duplicate the following image using HTML and CSS.
 <img src="https://icodethis.com/_next/image?url=/images/projects/keyboard.jpg&w=1920&q=75" alt="Keyboard" width="50%">
 
 ## My Design
