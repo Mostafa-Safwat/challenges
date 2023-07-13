@@ -1,0 +1,64 @@
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #282c71;
+    border-radius: 10px;
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.455);
+    padding: 20px;
+}
+
+svg {
+    display: block;
+    margin: auto;
+}
+
+.key {
+    color: white;
+    font-size: 3ch;
+    background: #3a419e;
+    height: 5rem;
+    width: 5rem;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.key:hover {
+    background: #1d214a;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.space {
+    width: 20rem;
+}
+
+.search {
+    width: 15rem;
+}
+
+.delete {
+    background: #eb325b;
+}
+
+.row1, .row2, .row3, .row4 {
+    display: flex;
+}
+
+.row3, .row4 {
+    justify-content: space-around;
+    width: 100%;
+}
