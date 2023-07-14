@@ -54,6 +54,11 @@ svg {
     background: #eb325b;
 }
 
+.upper {
+    display: block;
+    margin: auto;
+}
+
 .row1, .row2, .row3, .row4 {
     display: flex;
 }
