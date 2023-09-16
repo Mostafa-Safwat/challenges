@@ -6,6 +6,6 @@ For this challenge, I was tasked to try and duplicate the following image using 
 ## My Design
 <img src="https://i.imgur.com/uZzhGRZ.png" alt="My Keyboard" width="50%">
 
-#### Thanks to <a href="https://icodethis.com/">iCodeThis</a> for the challenge.
+#### Thanks to <a href="https://icodethis.com/" target="_blank">iCodeThis</a> for the challenge.
 #### I had a ton of fun with this challenge and I hope to do more in the future.
 
